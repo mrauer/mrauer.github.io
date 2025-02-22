@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>GitHub</title>
+    <link href="https://mrauer.github.io/feed.xml" rel="self" />
+    <link href="https://mrauer.github.io" />
+    <updated>2025-02-22T13:50:44-06:00</updated>
+    <author>
+        <name>Author</name>
+    </author>
+    <id>https://mrauer.github.io</id>
+
+    <entry>
+        <title>My Post Title</title>
+        <author>
+            <name>Author</name>
+        </author>
+        <link href="https://mrauer.github.io/my-post-title.html"/>
+        <id>https://mrauer.github.io/my-post-title.html</id>
+
+        <updated>2025-02-22T13:50:44-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Content
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Content</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

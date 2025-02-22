@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GitHub",
+    "description": "",
+    "home_page_url": "https://mrauer.github.io",
+    "feed_url": "https://mrauer.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Author"
+    },
+    "items": [
+        {
+            "id": "https://mrauer.github.io/my-post-title.html",
+            "url": "https://mrauer.github.io/my-post-title.html",
+            "title": "My Post Title",
+            "summary": "Content",
+            "content_html": "<p>Content</p>",
+            "author": {
+                "name": "Author"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-22T13:50:44-06:00",
+            "date_modified": "2025-02-22T13:50:44-06:00"
+        }
+    ]
+}
